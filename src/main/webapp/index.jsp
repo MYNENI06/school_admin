@@ -15,7 +15,7 @@
 </head>
 <body>
     <header>
-        <h1> School Administrator System</h1>
+        <h1> Administrator System</h1>
         <p>Welcome to the School Management Portal</p>
     </header>
     <div class="container">
