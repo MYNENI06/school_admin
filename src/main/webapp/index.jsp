@@ -15,16 +15,16 @@
 </head>
 <body>
     <header>
-        <h1>🏫 School Administrator System</h1>
+        <h1> School Administrator System</h1>
         <p>Welcome to the School Management Portal</p>
     </header>
     <div class="container">
-        <div class="card"><h2>👩‍🎓 Students</h2><p>Manage student records</p></div>
-        <div class="card"><h2>👨‍🏫 Teachers</h2><p>Manage teacher profiles</p></div>
-        <div class="card"><h2>📚 Courses</h2><p>Manage course details</p></div>
-        <div class="card"><h2>📝 Exams</h2><p>Schedule and results</p></div>
-        <div class="card"><h2>📅 Attendance</h2><p>Track attendance</p></div>
-        <div class="card"><h2>💰 Fees</h2><p>Manage fee records</p></div>
+        <div class="card"><h2> Students</h2><p>Manage student records</p></div>
+        <div class="card"><h2> Teachers</h2><p>Manage teacher profiles</p></div>
+        <div class="card"><h2> Courses</h2><p>Manage course details</p></div>
+        <div class="card"><h2>Exams</h2><p>Schedule and results</p></div>
+        <div class="card"><h2> Attendance</h2><p>Track attendance</p></div>
+        <div class="card"><h2> Fees</h2><p>Manage fee records</p></div>
     </div>
     <footer>School Administrator System &copy; 2026</footer>
 </body>
