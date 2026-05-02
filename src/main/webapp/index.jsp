@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Administrator System</title>
+    <title> Administrator  System</title>
     <style>
         body { font-family: Arial, sans-serif; background: #f0f4f8; margin: 0; padding: 0; }
         header { background: #1a73e8; color: white; padding: 20px; text-align: center; }
