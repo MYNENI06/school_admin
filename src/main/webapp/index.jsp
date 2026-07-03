@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Administrator  System</title>
+    <title>Library Management System</title>
     <style>
         body { font-family: Arial, sans-serif; background: #f0f4f8; margin: 0; padding: 0; }
         header { background: #1a73e8; color: white; padding: 20px; text-align: center; }
@@ -15,17 +15,42 @@
 </head>
 <body>
     <header>
-        <h1> SCHOOL ADMINISTRATOR SYSTEM </h1>
-        <p>Welcome to the School Management Portal</p>
+        <h1>LIBRARY MANAGEMENT SYSTEM</h1>
+        <p>Welcome to the Library Management Portal</p>
     </header>
+
     <div class="container">
-        <div class="card"><h2> Students</h2><p>Manage student records</p></div>
-        <div class="card"><h2> Teachers</h2><p>Manage teacher profiles</p></div>
-        <div class="card"><h2> Courses</h2><p>Manage course details</p></div>
-        <div class="card"><h2>Exams</h2><p>Schedule and results</p></div>
-        <div class="card"><h2> Attendance</h2><p>Track attendance</p></div>
-        <div class="card"><h2> Fees</h2><p>Manage fee records</p></div>
+        <div class="card">
+            <h2>Books</h2>
+            <p>Manage book records</p>
+        </div>
+
+        <div class="card">
+            <h2>Members</h2>
+            <p>Manage library members</p>
+        </div>
+
+        <div class="card">
+            <h2>Issue Books</h2>
+            <p>Issue books to members</p>
+        </div>
+
+        <div class="card">
+            <h2>Return Books</h2>
+            <p>Manage returned books</p>
+        </div>
+
+        <div class="card">
+            <h2>Authors</h2>
+            <p>Manage author details</p>
+        </div>
+
+        <div class="card">
+            <h2>Reports</h2>
+            <p>View library reports</p>
+        </div>
     </div>
-    <footer>School Administrator System &copy; 2026</footer>
+
+    <footer>Library Management System &copy; 2026</footer>
 </body>
 </html>
