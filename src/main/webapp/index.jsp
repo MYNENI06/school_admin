@@ -15,7 +15,7 @@
 </head>
 <body>
     <header>
-        <h1> AASRITHAS SYSTEM</h1>
+        <h1> SCHOOL ADMINISTRATOR SYSTEM </h1>
         <p>Welcome to the School Management Portal</p>
     </header>
     <div class="container">
